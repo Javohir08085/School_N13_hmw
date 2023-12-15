@@ -1,0 +1,7 @@
+127.0.0.1:8000/search?where=news&keyword=bayram
+127.0.0.1:8000/search?where=vacancy&keyword=Python
+127.0.0.1:8000/search?where=docs&keyword=qaror
+
+127.0.0.1:8000/search/news/bayram
+127.0.0.1:8000/search/vacancy/Python
+127.0.0.1:8000/search/docs/qaror
